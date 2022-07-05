@@ -146,7 +146,7 @@ function runGame() {
   stroke(255);
   fill(255, 255, 255);
   text(timeDown, 50,50);;
-  text('scoure', width-350,50);
+  text('score', width-350,50);
   text(score, width-170,50);
   // move the player
   // Player.position.x = mouseX;
